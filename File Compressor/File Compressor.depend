@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1649005717 source:c:\users\huzai\documents\github\file-compressor-fiverr-cpp-18\file compressor\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<unordered_map>
+	<queue>
+	<vector>
+	<functional>
+	<ctype.h>
+	<math.h>
+	"bitstream.h"
+	"util.h"
+
+1649001891 c:\users\huzai\documents\github\file-compressor-fiverr-cpp-18\file compressor\bitstream.h
+	<istream>
+	<ostream>
+	<fstream>
+	<sstream>
+
+1649003417 c:\users\huzai\documents\github\file-compressor-fiverr-cpp-18\file compressor\util.h
+	<iostream>
+	<fstream>
+	<map>
+	<queue>
+	<vector>
+	<functional>
+	<string>
+	"bitstream.h"
+	"hashmap.h"
+	"mymap.h"
+
+1649005362 c:\users\huzai\documents\github\file-compressor-fiverr-cpp-18\file compressor\hashmap.h
+	<vector>
+	<ostream>
+	<istream>
+
+1647361543 c:\users\huzai\documents\github\file-compressor-fiverr-cpp-18\file compressor\mymap.h
+	<iostream>
+	<sstream>
+	<vector>
+	<utility>
+	<algorithm>
+	<queue>
+
